@@ -2,13 +2,13 @@
 
 ---
 
-## Welcome to Zixuan's Org
+# Welcome to Zixuan's Org
 
 Hi, you can call me Zixuan.
 
 I love swimming and photographing.  
 
-This is the photo where I was in Chengdu.
+This is the photo when I was in Chengdu.
 
 ![img1](images/img1.jpeg)
 
@@ -16,7 +16,7 @@ Here are some photos in Qinghai.
 
 ![img2](images/img2.jpeg)
 
-This is Qinghai Lake.
+This is the Qinghai Lake.
 
 ![](images/img3.jpeg)
 
@@ -28,7 +28,7 @@ https://doi.org/10.1109/JSTARS.2021.3078177
 
 https://doi.org/10.1117/12.2577473
 
-Now, I am working on big data analysis based on spark. We may study together if you are keen on it as well.
+Now, I am working on big data analysis based on Spark. We may study together if you are keen on it as well.
 
 Glad to meet you in Shenzhen next year!
 
